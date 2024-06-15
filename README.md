@@ -59,3 +59,5 @@ E-Commerce
 4. Determined the Best Selling Products and the Top 5 Premium Customers
 5. Build a Pie Chart and Column Chart for Category-wise Profit and Sales respectively.
 6. Implemented Map Chart for showcasing Sales by State.
+![Screenshot 2024-06-15 215329](https://github.com/Arpithaven/Sales-Analysis-Dashboard-Excel/assets/153346168/d014ec58-b949-4f5e-8c75-13deac09c1eb)
+
